@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="img_urop.jpeg" alt="S.P.E.C.T.R.A System Architecture" width="700"/>
+<img src="spectra_architecture.png" alt="S.P.E.C.T.R.A System Architecture" width="700"/>
 
 <br/>
 
@@ -102,7 +102,7 @@ S.P.E.C.T.R.A/
 ├── ATT.csv              # 📊  Attitude sensor telemetry dataset
 ├── BAT.csv              # 📊  Battery sensor telemetry dataset
 ├── index.html           # 🌐  GitHub Pages static demo (pre-recorded data)
-├── img_urop.jpeg        # 📋  System architecture diagram
+├── spectra_architecture.png  # 📋  System architecture diagram
 ├── requirements.txt     # 📦  Python dependencies
 └── README.md            # 📖  This file
 ```
